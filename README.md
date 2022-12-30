@@ -12,7 +12,7 @@ Website: https://shhnotrightnow.xyz/RBXHealth
 1) Download the .zip file and decompress it.
 2) Open Roblox Studio, open a place, and go to the Model tab.
 3) Click Model.
-4) Go to your downloads and find the folder that says RBXHealth. Import the file that says "RBXHealthAssets.rbxm".
+4) Go to your downloads and find the folder that says RBXHealth. Import the file that says "RBXHealth (version).rbxm".
 5) Place the Model in ServerScriptService and ungroup.
 
 Read the instructions inside of the RBXHealth script and change the settings to your liking, and it's installed!
